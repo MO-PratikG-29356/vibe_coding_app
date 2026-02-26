@@ -10,14 +10,6 @@ A modern social media app built with Flutter featuring a beautiful gradient desi
 - 🎨 **Modern UI**: Beautiful gradient designs and Material 3 components
 - 💜 **Interactive**: Tap to like/unlike posts and bookmark your favorites
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/feed.png" alt="Feed Page" width="250"/>
-  <img src="screenshots/explore.png" alt="Explore Page" width="250"/>
-  <img src="screenshots/profile.png" alt="Profile Page" width="250"/>
-</div>
-
 ## 🎨 Design Highlights
 
 - Clean, modern UI with purple theme (#6C63FF)
