@@ -18,11 +18,6 @@ A modern social media app built with Flutter featuring a beautiful gradient desi
   <img src="screenshots/profile.png" alt="Profile Page" width="250"/>
 </div>
 
-> **Note**: To add screenshots, run the app and take screenshots, then:
-> 1. Create a `screenshots` folder in the project root
-> 2. Save your screenshots as `feed.png`, `explore.png`, and `profile.png`
-> 3. Commit and push the changes
-
 ## 🎨 Design Highlights
 
 - Clean, modern UI with purple theme (#6C63FF)
